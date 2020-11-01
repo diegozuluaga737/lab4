@@ -1,0 +1,6 @@
+a b 17
+a c 7
+b c 10
+b d 15
+d c 12
+juan lucas 10
